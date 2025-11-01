@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Données générées (optionnel - décommentez si vous ne voulez pas versionner les données)
+# *.csv
+# *.xlsx
+
+# Visualisations (optionnel - décommentez si vous ne voulez pas versionner les images)
+# *.png
+# *.jpg
+# *.jpeg
+
+# Power BI / Tableau
+*.pbix
+*.twbx
+~$*.xlsx
+*.tmp
